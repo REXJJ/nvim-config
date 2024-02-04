@@ -21,6 +21,4 @@ M.general = {
 
 -- more keybinds!
 
-vim.keymap.set( { 'n', 'v' }, '<leader>tb', ":Vista<CR>" )
-
 return M
