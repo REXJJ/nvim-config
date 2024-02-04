@@ -23,4 +23,4 @@ https://github.com/NvChad/NvChad
 
 ## Install custom config
 
-```git@github.com:REXJJ/nvim-config.git ~/.config/nvim/lua/custom --depth 1 && nvim ```
+```git clone git@github.com:REXJJ/nvim-config.git ~/.config/nvim/lua/custom --depth 1 && nvim ```
