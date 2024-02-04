@@ -1,2 +1,5 @@
-# nvim-config
-NVIM Setup for C++, Python, RUST and Web development
+# NvChad custom config
+
+Barebones NvChad config.
+
+
